@@ -1,0 +1,42 @@
+{
+	"name": "contao-community-alliance/backports-initialize-system",
+	"description": "Backport of the initializeSystem Hook for Contao Open Source CMS.",
+	"keywords": ["contao", "backports"],
+	"type": "contao-module",
+	"license": "LGPL-3.0+",
+	"authors": [
+		{
+			"name": "Tristan Lins",
+			"email": "tristan.lins@bit3.de",
+			"homepage": "http://bit3.de",
+			"role": "Developer"
+		}
+	],
+	"support": {
+		"email": "info@bit3.de",
+		"issues": "https://github.com/contao-community-alliance/backports-initialize-system/issues",
+		"wiki": "https://github.com/contao-community-alliance/backports-initialize-system/wiki",
+		"irc": "irc://irc.freenode.org/contao.dev",
+		"source": "https://github.com/contao-community-alliance/backports-initialize-system"
+	},
+	"require": {
+		"php": ">=5.3",
+		"contao/core": ">=2.11-dev,<4-dev",
+		"contao-community-alliance/composer-installer": "*"
+	},
+	"autoload": {
+		"psr-0": {
+			"ContaoCommunityAlliance\\Contao\\Backports": "src/"
+		}
+	},
+	"extra": {
+		"contao": {
+			"sources": {
+				"module": "system/modules/backports-initialize-system"
+			}
+		},
+		"branch-alias": {
+			"dev-master": "1.0.x-dev"
+		}
+	}
+}
