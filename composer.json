@@ -3,6 +3,7 @@
 	"description": "Backport of the initializeSystem Hook for Contao Open Source CMS.",
 	"keywords": ["contao", "backports"],
 	"type": "contao-module",
+	"homepage":"http://c-c-a.org/",
 	"license": "LGPL-3.0+",
 	"authors": [
 		{
@@ -22,7 +23,7 @@
 	"require": {
 		"php": ">=5.3",
 		"contao/core": ">=2.11-dev,<4-dev",
-		"contao-community-alliance/composer-installer": "*"
+		"contao-community-alliance/composer-plugin": "~2.0"
 	},
 	"autoload": {
 		"psr-0": {
