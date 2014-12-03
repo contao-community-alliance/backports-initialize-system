@@ -1,16 +1,18 @@
 <?php
 
 /**
- * Contao Composer Installer
+ * This file is part of contao-community-alliance/backports-initialize-system.
  *
- * Copyright (C) 2013 Contao Community Alliance
+ * (c) Contao Community Alliance <https://c-c-a.org>
  *
- * @package contao-composer
- * @author  Dominik Zogg <dominik.zogg@gmail.com>
- * @author  Christian Schiffler <c.schiffler@cyberspectrum.de>
- * @author  Tristan Lins <tristan.lins@bit3.de>
- * @link    http://c-c-a.org
- * @license LGPL-3.0+
+ * This project is provided in good faith and hope to be usable by anyone.
+ *
+ * @package    contao-community-alliance/backports-initialize-system
+ * @author     Tristan Lins <tristan.lins@bit3.de>
+ * @copyright  Contao Community Alliance <https://c-c-a.org>
+ * @link       https://github.com/contao-community-alliance/backports-initialize-system
+ * @license    http://opensource.org/licenses/LGPL-3.0 LGPL-3.0+
+ * @filesource
  */
 
 namespace ContaoCommunityAlliance\Contao\Backports\Test;
