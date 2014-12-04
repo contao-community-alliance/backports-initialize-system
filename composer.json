@@ -14,6 +14,16 @@
             "email": "tristan.lins@bit3.de",
             "homepage": "http://bit3.de",
             "role": "Developer"
+        },
+        {
+            "name": "Ruben Roegels, wiseape GmbH",
+            "email": "ruben.roegels@wiseape.de",
+            "role": "Contributor"
+        },
+        {
+            "name": "Andreas Isaak",
+            "email": "andy.jared@googlemail.com",
+            "role": "Contributor"
         }
     ],
     "support": {

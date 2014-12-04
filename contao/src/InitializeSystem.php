@@ -9,6 +9,7 @@
  *
  * @package    contao-community-alliance/backports-initialize-system
  * @author     Tristan Lins <tristan.lins@bit3.de>
+ * @author     Ruben Roegels, wiseape GmbH <ruben.roegels@wiseape.de>
  * @copyright  Contao Community Alliance <https://c-c-a.org>
  * @link       https://github.com/contao-community-alliance/backports-initialize-system
  * @license    http://opensource.org/licenses/LGPL-3.0 LGPL-3.0+
